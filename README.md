@@ -30,4 +30,4 @@ Criadora da página Mestres do R no Instagram
 
 [Me siga lá para acompanhar o meu trabalho](https://www.instagram.com/mestresdor/)
 
-![Logo Mestres do R]()<img width="2025" height="2025" alt="2" src="https://github.com/user-attachments/assets/1f1ac723-cf24-4d60-8506-d3555faefd36" />
+![Logo Mestres do R]()<img width="200" height="200" alt="2" src="https://github.com/user-attachments/assets/1f1ac723-cf24-4d60-8506-d3555faefd36" />
