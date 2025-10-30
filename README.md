@@ -16,7 +16,6 @@ Pretendo fazer melhorias contínuas neste repositório à medida que avanço no 
    - [ ] Incluir exemplos de código
    - [ ] Documentar o processo de contribuição
    - [x] Adicionar links úteis e recursos
-
 ---
 Obrigado por visitar este repositório! Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. 
 ---
