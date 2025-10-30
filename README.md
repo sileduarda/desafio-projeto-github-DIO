@@ -29,4 +29,4 @@ Zootecnista | Amante da Tecnologia | Futura Cientista de Dados
 
 Criadora da página [Mestres do R](https://www.instagram.com/mestresdor) no Instagram 
 
-![]()<img width="200" height="200" alt="2" src="https://github.com/user-attachments/assets/1f1ac723-cf24-4d60-8506-d3555faefd36" />
+![]()<img width="400" height="400" alt="2" src="https://github.com/user-attachments/assets/1f1ac723-cf24-4d60-8506-d3555faefd36" />
