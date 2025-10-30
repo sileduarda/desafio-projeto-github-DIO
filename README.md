@@ -25,7 +25,7 @@ Obrigado por visitar este repositório! Se você tiver alguma dúvida ou sugest�
 
 Saudações,
 Maria Eduarda Souza Silva :smiley:
-Zootecnista | Amante da Tecnologia | Futura Cientista de Dados
-Criadora da página Mestres do R no Instagram
+Zootecnista | Amante da Tecnologia | Futura Cientista de Dados \\
+Criadora da página Mestres do R no Instagram \\
 [Me siga lá para acompanhar o meu trabalho](https://www.instagram.com/mestresdor/)
-![Imagem de divulgação](C:\Users\eduar\OneDrive\MEU PC ATUAL\MESTRES DO R\Divulgação\2.png)
+![Imagem de divulgação](C://Users//eduar//OneDrive//MEU PC ATUAL//MESTRES DO R//Divulgação//2.png)
